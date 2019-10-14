@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Mansalva|Pacifico&display=swap');
+
+body{
+  background-color: #b5c678;
+  
+}
+
+html {
+  font-size: 1.3rem
+}
+article {
+  background-color: #0c374d;
+  margin: 2rem 10% 2rem 10%;
+  padding:  2rem;
+}
+p{
+  margin: 3rem;
+}
+article p:first-letter {
+  font-size: 3rem;
+}
+.times-new-roman {
+  font-family: "Times New Roman", Times, serif;
+}
+sup a {
+  text-decoration: none;
+}
+sup:hover {
+  background-color: red;
+}
+sup {
+  font-size: 1rem;
+}
+header{
+  color: #0c374d;
+}
+h1,h2,h3,h4,h5,h6 {
+  text-align: center;
+}
+h2 {
+  letter-spacing: .3rem;
+}
+/* fonts */
+.georgia {
+  font-family: Georgia, serif
+}
+
+.comic {
+ font-family: "Comic Sans MS", cursive, sans-serif
+}
+
+.tahoma {
+  font-family: Tahoma, Geneva, sans-serif
+}
+
+.mansalva {
+  font-family: 'Mansalva', cursive;
+}
+
+.pacifico {
+  font-family: 'Pacifico', cursive;
+}
+/* footer */
+footer a {
+  text-decoration: none;
+  color: black;
+}
+
+footer a:hover {
+  background-color: gray;
+}
